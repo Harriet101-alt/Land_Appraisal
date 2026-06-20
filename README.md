@@ -1,4 +1,4 @@
-Spatial Intelligence for Housing
+## Spatial Intelligence for Housing
 
 This repository contains the production-grade, object-oriented Python codebase used to process, clean, and enrich regional housing data for deployment into **Esri ArcGIS Online** and the interactive **ArcGIS StoryMap** ecosystem.
 
